@@ -5,8 +5,8 @@ This repository inlcudes official implementations and model weights for [RC-MAE]
 [[`Arxiv`](https://arxiv.org/abs/2210.02077)] [[`OpenReview`](https://openreview.net/forum?id=7sn6Vxp92xV)] [[`BibTeX`](#CitingRC-MAE)]
  
 > **[Exploring The Role of Mean Teachers in Self-supervised Masked Auto-Encoders](https://openreview.net/forum?id=7sn6Vxp92xV)**<br>
-> :classical_building:️️:school:[Youngwan Lee*](https://github.com/youngwanLEE), :school:[Jeff Willette*](https://jeffwillette.github.io/),:classical_building:️️Jonghee Kim, :school:[Juho Lee](https://juho-lee.github.io/), :school:[Sung Ju Hwang](http://www.sungjuhwang.com/) <br>
-> ETRI:classical_building:️, KAIST:school: <br>
+> 🏛️🏫[Youngwan Lee*](https://github.com/youngwanLEE), :school:[Jeff Willette*](https://jeffwillette.github.io/),️️ 🏛️Jonghee Kim, 🏫[Juho Lee](https://juho-lee.github.io/), :school:[Sung Ju Hwang](http://www.sungjuhwang.com/) <br>
+> ETRI🏛️, KAIST🏫 <br>
 > *: equal contribution <br>
 > Internation Conference on Learning Representation (ICLR) 2023
 
